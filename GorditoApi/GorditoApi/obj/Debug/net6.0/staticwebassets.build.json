@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VtAvBLifLjWoSuXRLe9VvtmAsqf3wAXp8Dut5EfCZbA=",
+  "Source": "GorditoApi",
+  "BasePath": "_content/GorditoApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
